@@ -1,0 +1,2 @@
+# salary-
+salary prediction practise
